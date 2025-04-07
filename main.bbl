@@ -1,0 +1,106 @@
+\begin{thebibliography}{10}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Binetruy et~al.(2020{\natexlab{a}})Binetruy, Garnier, Boulanger,
+  Talagrand-Reboul, Loire, Faivre, Noël, Buysse, and Duron]{Binetruy2020}
+F.~Binetruy, S.~Garnier, N.~Boulanger, É. Talagrand-Reboul, E.~Loire,
+  B.~Faivre, V.~Noël, M.~Buysse, and O.~Duron.
+\newblock A novel borrelia species, intermediate between lyme disease and
+  relapsing fever groups, in neotropical passerine-associated ticks.
+\newblock \emph{Scientific Reports}, 10\penalty0 (1):\penalty0 10596,
+  2020{\natexlab{a}}.
+\newblock \doi{10.1038/s41598-020-66828-7}.
+
+\bibitem[Binetruy et~al.(2020{\natexlab{b}})Binetruy, Garnier, Boulanger,
+  Talagrand-Reboul, Loire, Faivre, Noël, Buysse, and Duron]{Binetruy2020a}
+F.~Binetruy, S.~Garnier, N.~Boulanger, É. Talagrand-Reboul, E.~Loire,
+  B.~Faivre, V.~Noël, M.~Buysse, and O.~Duron.
+\newblock A novel borrelia species, intermediate between lyme disease and
+  relapsing fever groups, in neotropical passerine-associated ticks.
+\newblock \emph{Scientific Reports}, 10\penalty0 (1):\penalty0 10596,
+  2020{\natexlab{b}}.
+\newblock \doi{10.1038/s41598-020-66828-7}.
+
+\bibitem[Colunga-Salas et~al.(2020)Colunga-Salas, Sánchez-Montes, Volkow,
+  Ruíz-Remigio, and Becker]{Colunga-Salas2020}
+P.~Colunga-Salas, S.~Sánchez-Montes, P.~Volkow, A.~Ruíz-Remigio, and
+  I.~Becker.
+\newblock Lyme disease and relapsing fever in mexico: An overview of human and
+  wildlife infections.
+\newblock \emph{PLoS ONE}, 15\penalty0 (9):\penalty0 e0238496, 2020.
+\newblock \doi{10.1371/journal.pone.0238496}.
+
+\bibitem[Ivanova et~al.(2014)Ivanova, Tomova, González-Acuña, Murúa, Moreno,
+  Hernández, Cabello, Cabello, Daniels, Godfrey, and Cabello]{Ivanova2014}
+L.~B. Ivanova, A.~Tomova, D.~González-Acuña, R.~Murúa, C.~X. Moreno,
+  C.~Hernández, J.~Cabello, C.~Cabello, T.~J. Daniels, H.~P. Godfrey, and
+  F.~C. Cabello.
+\newblock Borrelia chilensis, a new member of the borrelia burgdorferi sensu
+  lato complex that extends the range of this genospecies in the southern
+  hemisphere.
+\newblock \emph{Environmental Microbiology}, 16\penalty0 (4):\penalty0
+  1069--1080, 2014.
+\newblock \doi{10.1111/1462-2920.12310}.
+
+\bibitem[Jorge et~al.(2023)Jorge, Muñoz-Leal, de~Oliveira, Serpa, Magalhães,
+  de~Oliveira, Moura, Teixeira, and Labruna]{Jorge2023}
+F.~R. Jorge, S.~Muñoz-Leal, G.~M.~B. de~Oliveira, M.~C.~A. Serpa, M.~M.~L.
+  Magalhães, L.~M.~B. de~Oliveira, F.~B.~P. Moura, B.~M. Teixeira, and M.~B.
+  Labruna.
+\newblock Novel borrelia genotypes from brazil indicate a new group of borrelia
+  spp. associated with south american bats.
+\newblock \emph{Journal of Medical Entomology}, 60\penalty0 (1):\penalty0
+  222--228, 2023.
+\newblock \doi{10.1093/jme/tjac160}.
+
+\bibitem[Labruna et~al.(2024)Labruna, Faccini-Martínez, Muñoz-Leal, Szabó,
+  and Angerami]{Labruna2024}
+M.~B. Labruna, Á.~A. Faccini-Martínez, S.~Muñoz-Leal, M.~P.~J. Szabó, and
+  R.~N. Angerami.
+\newblock Lyme borreliosis in brazil: A critical review on the
+  baggio--yoshinari syndrome (brazilian lyme-like disease).
+\newblock \emph{Clinical Microbiology Reviews}, 37\penalty0 (4):\penalty0
+  e00097--24, 2024.
+\newblock \doi{10.1128/CMR.00097-24}.
+
+\bibitem[Lucca et~al.(2024)Lucca, Nuñez, Pucheta, Radman, Rigonatto, Sánchez,
+  Del~Curto, Oliva, Mariño, López, Bonin, Trevisan, and Stanchi]{Lucca2024}
+V.~Lucca, S.~Nuñez, M.~Pucheta, N.~Radman, T.~Rigonatto, G.~Sánchez,
+  B.~Del~Curto, D.~Oliva, B.~Mariño, G.~López, S.~Bonin, G.~Trevisan, and
+  N.~Stanchi.
+\newblock Lyme disease: A review with emphasis on latin america.
+\newblock \emph{Microorganisms}, 12\penalty0 (2):\penalty0 385, 2024.
+\newblock \doi{10.3390/microorganisms12020385}.
+
+\bibitem[Mancilla-Agrono et~al.(2022)Mancilla-Agrono, Banguero-Micolta,
+  Ossa-López, Ramírez-Chaves, Castaño-Villa, and
+  Rivera-Páez]{Mancilla-Agrono2022}
+L.~Y. Mancilla-Agrono, L.~F. Banguero-Micolta, P.~A. Ossa-López, H.~E.
+  Ramírez-Chaves, G.~J. Castaño-Villa, and F.~A. Rivera-Páez.
+\newblock Is borrelia burgdorferi sensu stricto in south america? first
+  molecular evidence of its presence in colombia.
+\newblock \emph{Tropical Medicine and Infectious Disease}, 7\penalty0
+  (9):\penalty0 166, 2022.
+\newblock \doi{10.3390/tropicalmed7090166}.
+
+\bibitem[Weck et~al.(2022)Weck, Serpa, Labruna, and Muñoz-Leal]{Weck2022}
+B.~C. Weck, M.~C.~A. Serpa, M.~B. Labruna, and S.~Muñoz-Leal.
+\newblock A novel genospecies of borrelia burgdorferi sensu lato associated
+  with cricetid rodents in brazil.
+\newblock \emph{Microorganisms}, 10\penalty0 (2):\penalty0 204, 2022.
+\newblock \doi{10.3390/microorganisms10020204}.
+
+\bibitem[Yoshinari et~al.(2022)Yoshinari, Bonoldi, Bonin, Falkingham, and
+  Trevisan]{Yoshinari2022}
+N.~H. Yoshinari, V.~L.~N. Bonoldi, S.~Bonin, E.~Falkingham, and G.~Trevisan.
+\newblock The current state of knowledge on baggio--yoshinari syndrome
+  (brazilian lyme disease-like illness): Chronological presentation of
+  historical and scientific events observed over the last 30 years.
+\newblock \emph{Pathogens}, 11\penalty0 (8):\penalty0 889, 2022.
+\newblock \doi{10.3390/pathogens11080889}.
+
+\end{thebibliography}
