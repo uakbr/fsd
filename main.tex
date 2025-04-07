@@ -14,13 +14,25 @@
 \usepackage{url}
 \usepackage{caption}
 \usepackage{enumitem}
+\usepackage[table]{xcolor}
+\usepackage{framed}
+\usepackage{mdframed}
+\usepackage{csquotes}
+
+% Fix headheight warning
+\setlength{\headheight}{14pt}
+\addtolength{\topmargin}{-2pt}
+
+% Define colors
+\definecolor{lightgray}{gray}{0.95}
+\definecolor{accentblue}{RGB}{0,75,150}
 
 % Adjust spacing
 \setlength{\parskip}{0.8ex plus 0.2ex minus 0.2ex}
 \setlength{\parindent}{1.5em}
 
-% Configure section formatting
-\titleformat{\section}{\normalfont\large\bfseries}{\thesection.}{0.5em}{}
+% Configure section formatting with more professional spacing
+\titleformat{\section}{\normalfont\large\bfseries\color{accentblue}}{\thesection.}{0.5em}{}
 \titleformat{\subsection}{\normalfont\normalsize\bfseries}{\thesubsection.}{0.5em}{}
 \titleformat{\subsubsection}{\normalfont\normalsize\itshape}{\thesubsubsection.}{0.5em}{}
 
@@ -28,25 +40,27 @@
 \titlespacing*{\subsection}{0pt}{1.8ex plus 0.5ex minus 0.2ex}{0.8ex plus 0.2ex}
 \titlespacing*{\subsubsection}{0pt}{1.5ex plus 0.5ex minus 0.2ex}{0.5ex plus 0.2ex}
 
-% Set page headers/footers
+% Enhanced page headers/footers
 \pagestyle{fancy}
 \fancyhf{}
-\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrulewidth}{0.5pt}
 \fancyhead[L]{Lyme Disease in Latin America}
 \fancyhead[R]{\thepage}
-\fancyfoot[C]{\small{J. Microbiol. Immunol. 2024}}
+\fancyfoot[C]{\small{J. Microbiol. Immunol. 2024 · Vol 12 · Issue 3}}
+\fancyfoot[R]{\small\textit{https://doi.org/10.xxxx/jmi.2024.xx}}
 
 % Configure table and figure captions
 \captionsetup{font=small,labelfont=bf,format=hang,justification=justified,singlelinecheck=off}
 
-% Set hyperref options
+% Enhanced hyperref options
 \hypersetup{
   colorlinks=true,
   linkcolor=black,
-  citecolor=blue,
-  urlcolor=blue,
+  citecolor=accentblue,
+  urlcolor=accentblue,
   pdfauthor={},
-  pdftitle={Lyme Disease and Borrelia Diversity in Latin America (2009–2024)}
+  pdftitle={Lyme Disease and Borrelia Diversity in Latin America (2009–2024)},
+  pdfkeywords={Lyme disease, Borrelia, Latin America, borreliosis, ticks, Baggio-Yoshinari Syndrome}
 }
 
 % Define a simple citation command
@@ -55,7 +69,14 @@
 % Adjust list spacing
 \setlist{noitemsep,topsep=4pt,parsep=2pt,partopsep=0pt}
 
-\title{\vspace{-1.5cm}\Large\bfseries Lyme Disease and Borrelia Diversity in Latin America (2009–2024)}
+% Define abstract styling with frame
+\newenvironment{abstractenv}{%
+  \begin{mdframed}[linewidth=0.5pt,linecolor=black,backgroundcolor=lightgray,innerleftmargin=10pt,innerrightmargin=10pt,innertopmargin=8pt,innerbottommargin=8pt]
+  \begin{abstract}\setstretch{1.05}\noindent}
+  {\end{abstract}\end{mdframed}}
+
+% Title formatting
+\title{\vspace{-1.5cm}\Large\bfseries\color{accentblue} Lyme Disease and Borrelia Diversity in Latin America (2009–2024)}
 \author{}
 \date{}
 
@@ -64,13 +85,11 @@
 \maketitle
 \thispagestyle{fancy}
 
-\begin{abstract}
-\setstretch{1.05}
-\noindent
+\begin{abstractenv}
 Lyme disease is a tick-borne zoonosis caused by \textit{Borrelia burgdorferi sensu lato} spirochetes, historically considered confined to the Northern Hemisphere. In Latin America, the epidemiology of Lyme disease has remained poorly understood and often controversial. Here we present a comprehensive systematic review (2009–2024) of peer-reviewed literature on Lyme disease in Latin America, with a focus on the identification and characterization of novel \textit{Borrelia} species associated with human infection. We searched PubMed, Scopus, Web of Science, and SciELO for studies on Lyme borreliosis in Latin America, including case reports/series, epidemiological surveys, and molecular investigations, while excluding animal-only and non-peer-reviewed reports. Our review synthesizes evidence of multiple \textit{Borrelia} species – some recently described – present in Latin America. We highlight \textbf{Borrelia chilensis} in Chile, \textbf{"Candidatus Borrelia paulista"} and \textbf{Borrelia ibitipoquensis} in Brazil, and newly reported \textit{B. burgdorferi sensu stricto} in Colombia and Mexico, among others. Clinical manifestations in Latin America range from classical erythema migrans and arthritis to atypical relapsing febrile illness with autoimmune features (the so-called Baggio–Yoshinari syndrome in Brazil). Regional variations are evident: for example, Brazil's Lyme-like syndrome shows frequent relapse and low serological positivity, whereas Mexico reports endemic cases resembling classic Lyme disease (\mycite{2}). Emerging trends include improved molecular surveillance uncovering novel \textit{Borrelia} genospecies, increased awareness of Lyme borreliosis beyond traditional areas, and advances in diagnostics (e.g. PCR and sequencing) that have definitively confirmed endemic human infection in Latin America (\mycite{2}). These findings carry significant public health implications: Lyme disease in Latin America, once disputed, is now recognized as a real and multifaceted phenomenon. Our review underscores the need for enhanced tick-borne disease surveillance in the region, development of region-specific diagnostic tests (accounting for local \textit{Borrelia} strains), and clinician awareness to ensure early diagnosis and treatment. We conclude that Latin America harbors a broader diversity of \textit{Borrelia} – including novel species – than previously thought, with clear evidence of human infections. This expanding knowledge should inform public health strategies and future research on Lyme disease in the Americas.
-\end{abstract}
+\end{abstractenv}
 
-\vspace{0.5cm}
+\vspace{0.3cm}
 \section{Introduction}
 \setstretch{1.15}
 Lyme borreliosis, commonly known as Lyme disease (LD), is the most prevalent tick-borne illness in the Northern Hemisphere, caused by \textit{Borrelia burgdorferi sensu lato} spirochetes \mycite{1}. Classic Lyme disease is characterized by an early localized infection often manifesting as erythema migrans (EM) rash, followed by possible dissemination leading to arthritis, carditis, and neurologic complications if untreated. While LD has been well documented in North America, Europe, and parts of Asia, its occurrence in Latin America has long been debated. Historically, Latin America was not considered endemic for Lyme disease due to the assumed absence of the typical vector ticks of the \textit{Ixodes ricinus} complex in many regions. Over the last 15 years, however, accumulating evidence suggests that \textit{Borrelia} infections – including authentic Lyme disease and Lyme-like syndromes – do occur in Latin America, albeit with unique regional patterns \mycite{6, 1}.
