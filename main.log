@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.3.15)  7 APR 2025 13:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.3.15)  7 APR 2025 13:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -728,329 +728,312 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 168--168
-[]\OT1/cmr/bx/n/9 (+20) Year
+Underfull \hbox (badness 3049) in paragraph at lines 168--168
+[]\OT1/cmr/bx/it/8 (+20) Borrelia \OT1/cmr/bx/n/8 (+20) Species
+ []
+
+
+Overfull \hbox (0.90297pt too wide) in paragraph at lines 168--168
+[]\OT1/cmr/bx/n/8 (-20) Country| 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 168--168
-\OT1/cmr/bx/n/9 (+20) (First
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 168--168
-[]\OT1/cmr/bx/n/9 (+20) Human
+[]\OT1/cmr/bx/n/8 (+20) Human
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 170--170
-\OT1/cmr/m/n/9 (+20) en-demic
+\OT1/cmr/m/n/8 (+20) (first
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 170--170
-[]\OT1/cmr/m/n/9 (+20) 1 con-
- []
-
-
-Underfull \hbox (badness 8094) in paragraph at lines 170--170
-\OT1/cmr/m/n/9 (+20) firmed (au-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 170--170
-\OT1/cmr/m/n/9 (+20) sus-pected
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 170--170
-\OT1/cmr/m/n/9 (+20) (serology-
+\OT1/cmr/m/n/8 (+20) en-demic
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 173--173
-[]\OT1/cmr/m/n/9 (+20) 2022
+\OT1/cmr/m/n/8 (+20) (wildlife
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 173--173
-\OT1/cmr/m/n/9 (+20) (wildlife
+\OT1/cmr/m/n/8 (+20) study)
  []
 
 
-Underfull \hbox (badness 1454) in paragraph at lines 173--173
-\OT1/cmr/m/n/9 (+20) tected in 2
+Underfull \hbox (badness 4913) in paragraph at lines 173--173
+\OT1/cmr/m/n/8 (+20) dent tis-sues; se-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 176--176
-\OT1/cmr/m/n/9 (+20) lated from
+[]\OT1/cmr/bx/n/8 (+20) Culture \OT1/cmr/m/n/8 (+20) from
  []
 
 
-Overfull \hbox (4.30121pt too wide) in paragraph at lines 176--176
-\OT1/cmr/m/n/9 (-20) ticks/rodents)| 
+Underfull \hbox (badness 6348) in paragraph at lines 176--176
+\OT1/cmr/m/n/8 (+20) ticks; Mul-ti-lo-cus
+ []
+
+
+Underfull \hbox (badness 5954) in paragraph at lines 176--176
+\OT1/cmr/m/n/8 (+20) se-quence anal-y-sis
+ []
+
+
+Underfull \hbox (badness 1466) in paragraph at lines 176--176
+\OT1/cmr/m/n/8 (+20) (5 genes); PFGE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--176
+\OT1/cmr/m/n/8 (+20) (isolated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--176
+\OT1/cmr/m/n/8 (+20) from
+ []
+
+
+Overfull \hbox (8.32175pt too wide) in paragraph at lines 176--176
+\OT1/cmr/m/n/8 (-20) ticks/rodents)| 
+ []
+
+
+Underfull \hbox (badness 1590) in paragraph at lines 176--177
+\OT1/cmr/m/n/8 (+20) group species en-demic to
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 179--179
-[]\OT1/cmr/m/it/9 (+20) "Candidatus Bor-
+[]\OT1/cmr/m/it/8 (+20) "Candidatus Bor-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 179--179
-\OT1/cmr/m/it/9 (+20) re-lia paulista"
+\OT1/cmr/m/it/8 (+20) re-lia paulista"
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 179--179
-[]\OT1/cmr/m/n/9 (+20) Brazil
+[]\OT1/cmr/m/n/8 (+20) Brazil
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 179--179
-\OT1/cmr/m/n/9 (+20) (S~ao
- []
-
-
-Underfull \hbox (badness 1389) in paragraph at lines 179--179
-[]\OT1/cmr/m/n/9 (+20) PCR of 10 genes
- []
-
-
-Underfull \hbox (badness 1454) in paragraph at lines 179--179
-\OT1/cmr/m/n/9 (+20) tected in 2
+\OT1/cmr/m/n/8 (+20) (S~ao
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 182--182
-[]\OT1/cmr/m/n/9 (+20) Brazil
+[]\OT1/cmr/m/n/8 (+20) Brazil
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 182--182
-[]\OT1/cmr/m/n/9 (+20) Isolation from
+[]\OT1/cmr/m/n/8 (+20) Isolation from
  []
 
 
-Underfull \hbox (badness 1789) in paragraph at lines 182--182
-\OT1/cmr/m/it/9 (+20) Ixodes paranaen-sis
- []
-
-
-Underfull \hbox (badness 7925) in paragraph at lines 182--182
-\OT1/cmr/m/n/9 (+20) tick; 16S rRNA
+Underfull \hbox (badness 5133) in paragraph at lines 182--182
+\OT1/cmr/m/n/8 (+20) tick; 16S rRNA
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 182--182
-[]\OT1/cmr/m/n/9 (+20) 0 hu-man
+\OT1/cmr/m/n/8 (+20) (tick iso-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+[]\OT1/cmr/m/n/8 (+20) No hu-man cases yet.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+\OT1/cmr/m/it/8 (+20) Bor-re-lia valaisiana\OT1/cmr/m/n/8 (+20) -like
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+\OT1/cmr/m/n/8 (+20) genospecies $[]$; in-di-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+\OT1/cmr/m/n/8 (+20) cates pres-ence of Old
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 185--185
-[]\OT1/cmr/m/n/9 (+20) French
+[]\OT1/cmr/m/n/8 (+20) French
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 185--185
-\OT1/cmr/m/n/9 (+20) Guiana
+\OT1/cmr/m/n/8 (+20) Guiana
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 185--185
-[]\OT1/cmr/m/n/9 (+20) PCR screen-ing
+\OT1/cmr/m/n/8 (+20) (Ama-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 185--185
-\OT1/cmr/m/n/9 (+20) of ticks (bird-
- []
-
-
-Underfull \hbox (badness 7558) in paragraph at lines 185--185
-\OT1/cmr/m/n/9 (+20) associated); \OT1/cmr/bx/n/9 (+20) Cul-
+[]\OT1/cmr/m/n/8 (+20) PCR screen-ing
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 185--185
-\OT1/cmr/bx/n/9 (+20) ture \OT1/cmr/m/n/9 (+20) achieved;
+\OT1/cmr/m/n/8 (+20) of ticks (bird-
+ []
+
+
+Underfull \hbox (badness 3396) in paragraph at lines 185--185
+\OT1/cmr/m/n/8 (+20) associated); \OT1/cmr/bx/n/8 (+20) Cul-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 185--185
-[]\OT1/cmr/m/n/9 (+20) 0 hu-man
+\OT1/cmr/bx/n/8 (+20) ture \OT1/cmr/m/n/8 (+20) achieved;
  []
 
 
-Underfull \hbox (badness 1845) in paragraph at lines 185--185
-\OT1/cmr/m/n/9 (+20) (tick iso-late
+Underfull \hbox (badness 10000) in paragraph at lines 185--185
+\OT1/cmr/m/n/8 (+20) Genome se-quenc-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 188--188
-[]\OT1/cmr/m/it/9 (+20) Borrelia garinii
+[]\OT1/cmr/m/it/8 (+20) Borrelia garinii
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 188--188
-\OT1/cmr/m/n/9 (+20) (Eu-ro-pean Lyme
- []
-
-
-Underfull \hbox (badness 2865) in paragraph at lines 188--188
-\OT1/cmr/m/n/9 (+20) ported in
- []
-
-
-Underfull \hbox (badness 1472) in paragraph at lines 188--188
-[] \OT1/cmr/m/n/9 (+20) 10 hu-man
+\OT1/cmr/m/n/8 (+20) (Eu-ro-pean Lyme
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 188--188
-\OT1/cmr/m/n/9 (+20) cases (re-
+\OT1/cmr/m/n/8 (+12) (reported
  []
 
 
-Overfull \hbox (4.03114pt too wide) in paragraph at lines 191--191
-[]\OT1/cmr/bx/n/9 (-20) "Baggio{Yoshinari
+Underfull \hbox (badness 10000) in paragraph at lines 188--188
+\OT1/cmr/m/n/8 (+20) in sur-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--191
-\OT1/cmr/bx/n/9 (+20) Syn-drome"
+Underfull \hbox (badness 2689) in paragraph at lines 188--189
+\OT1/cmr/m/n/8 (+20) fea-tures sim-i-lar to Lyme
  []
 
 
-Underfull \hbox (badness 7291) in paragraph at lines 191--191
-\OT1/cmr/m/n/9 (+20) ac-ter-ized \OT1/cmr/m/it/9 (+20) Bor-re-lia
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 191--191
-\OT1/cmr/m/n/9 (+20) cases);
+Overfull \hbox (3.00008pt too wide) in paragraph at lines 191--191
+[]\OT1/cmr/bx/n/8 (-20) "Baggio{Yoshinari
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 191--191
-\OT1/cmr/m/n/9 (+20) 2010s
+[]\OT1/cmr/m/n/8 (+20) 1992
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 191--191
-\OT1/cmr/m/n/9 (+20) (ac-tive
- []
-
-
-Underfull \hbox (badness 7415) in paragraph at lines 191--191
-[]\OT1/cmr/m/n/9 (+20) Clinical di-ag-no-sis;
+\OT1/cmr/m/n/8 (+20) (first
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 191--191
-\OT1/cmr/m/n/9 (+20) EM in 60{80%;
- []
-
-
-Underfull \hbox (badness 1325) in paragraph at lines 191--191
-\OT1/cmr/m/n/9 (+20) some \OT1/cmr/bx/n/9 (+20) mi-croscopy
+\OT1/cmr/m/n/8 (+20) 2010s
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 191--191
-\OT1/cmr/m/n/9 (+20) (spiro-chetes in
+\OT1/cmr/m/n/8 (+20) (ac-tive
+ []
+
+
+Underfull \hbox (badness 2042) in paragraph at lines 191--191
+[]\OT1/cmr/m/n/8 (+20) Clinical di-ag-no-sis;
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 191--191
-\OT1/cmr/m/n/9 (+20) blood) $[]$; low
+\OT1/cmr/m/n/8 (+20) EM in 60{80%;
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 191--191
-[] \OT1/cmr/m/n/9 (+20) 199 hu-
+\OT1/cmr/bx/n/8 (+20) mi-croscopy
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 191--191
-\OT1/cmr/m/n/9 (+20) man cases
+\OT1/cmr/m/n/8 (+20) (spiro-chetes in
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 191--191
-\OT1/cmr/m/n/9 (+20) (1989{2024)
+\OT1/cmr/m/n/8 (+20) blood) $[]$; low
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 191--191
-[]$ \OT1/cmr/m/n/9 (+20) (com-
+[] \OT1/cmr/m/n/8 (+20) 199 hu-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--191
-\OT1/cmr/m/n/9 (+20) piled);
+Underfull \hbox (badness 3386) in paragraph at lines 191--191
+\OT1/cmr/m/n/8 (+20) man cases
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 191--192
-[]\OT1/cmr/bx/n/9 (+20) Relapsing/remitting
+[]\OT1/cmr/bx/n/8 (+20) Relapsing/remitting
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 191--192
-\OT1/cmr/m/n/9 (+20) pro-gress-ing to arthri-tis,
+\OT1/cmr/bx/n/8 (+20) Lyme-like ill-ness $[]$\OT1/cmr/m/n/8 (+20) .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 191--192
-\OT1/cmr/bx/n/9 (+20) Fre-quent re-lapses \OT1/cmr/m/n/9 (+20) and
+\OT1/cmr/m/n/8 (+20) Ini-tial EM and flu-like
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--192
-\OT1/cmr/m/n/9 (+20) post-treatment re-cur-rence.
+Underfull \hbox (badness 1960) in paragraph at lines 191--192
+\OT1/cmr/m/n/8 (+20) symp-toms, pro-gress-ing to
  []
 
 
-Underfull \hbox (badness 1365) in paragraph at lines 191--192
-\OT1/cmr/m/n/9 (+20) Au-toim-mune man-i-fes-ta-tions
- []
-
-
-Underfull \hbox (badness 2772) in paragraph at lines 191--192
-\OT1/cmr/m/n/9 (+20) (e.g. ery-thema no-dosum,
- []
-
-
-Underfull \hbox (badness 2846) in paragraph at lines 191--192
-\OT1/cmr/m/n/9 (+20) re-ac-tive arthri-tis) com-mon
+Underfull \hbox (badness 1694) in paragraph at lines 191--192
+\OT1/cmr/m/n/8 (+20) re-cur-rence. Au-toim-mune
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 194--194
-[]\OT1/cmr/m/n/9 (+20) Brazil,
+[]\OT1/cmr/m/n/8 (+20) Brazil,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 194--194
-[]\OT1/cmr/m/n/9 (+20) PCR (16S, flaB
+\OT1/cmr/m/n/8 (+20) Colom-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 194--194
-[]\OT1/cmr/m/n/9 (+20) 0 hu-man
+[]\OT1/cmr/m/n/8 (+20) PCR (16S, flaB
  []
 
 
-Underfull \hbox (badness 4001) in paragraph at lines 194--194
-\OT1/cmr/m/n/9 (+20) tested pos-i-
- []
-
-
-Underfull \hbox (badness 1286) in paragraph at lines 194--195
-[]\OT1/cmr/m/n/9 (+20) Not a Lyme agent; forms
- []
+LaTeX Warning: Float too large for page by 56.63669pt on input line 198.
 
 
 
@@ -1062,9 +1045,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [10]
-Overfull \vbox (360.96527pt too high) has occurred while \output is active []
-
-
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1182,17 +1162,17 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 60751DBC8508A9B278CB20A69C75B00C;8256.
  ) 
 Here is how much of TeX's memory you used:
- 15761 strings out of 473190
- 251466 string characters out of 5704335
- 706828 words of memory out of 5000000
- 38379 multiletter control sequences out of 15000+600000
- 586310 words of font info for 278 fonts, out of 8000000 for 9000
+ 15714 strings out of 473190
+ 251008 string characters out of 5704335
+ 705828 words of memory out of 5000000
+ 38366 multiletter control sequences out of 15000+600000
+ 583688 words of font info for 257 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,12n,79p,2637b,626s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmbx10.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmbx12.pfb></opt/homebrew/Cellar/texlive/20250
-308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></opt/homebrew/
+308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></opt/homebrew/
 Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxt
 i10.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/p
 ublic/amsfonts/cm/cmmi8.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texm
@@ -1201,16 +1181,15 @@ f-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/homebrew/Cellar/texlive/2
 ew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 r7.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/pu
 blic/amsfonts/cm/cmr8.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></opt/homebrew/Cellar/texlive/2025
-0308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/homebre
-w/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
-i10.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmti9.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texm
-f-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on main.pdf (21 pages, 285606 bytes).
+dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/homebrew/Cellar/texlive/20
+250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></opt/homeb
+rew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mti8.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/
+public/cm-super/sfrm1095.pfb>
+Output written on main.pdf (21 pages, 274735 bytes).
 PDF statistics:
- 351 PDF objects out of 1000 (max. 8388607)
- 297 compressed objects within 3 object streams
+ 346 PDF objects out of 1000 (max. 8388607)
+ 294 compressed objects within 3 object streams
  71 named destinations out of 1000 (max. 500000)
- 43281 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 41233 words of extra memory for PDF output out of 42996 (max. 10000000)
 
