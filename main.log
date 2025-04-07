@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.3.15)  7 APR 2025 12:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.3.15)  7 APR 2025 13:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -350,14 +350,6 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen177
 \Gm@dimlist=\toks23
 )
-(/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/natbib/natb
-ib.sty
-Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip55
-\bibsep=\skip56
-LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count301
-)
 (/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/setspace/se
 tspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
@@ -365,7 +357,7 @@ Package: setspace 2022/12/04 v6.7b set line spacing
 (/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/float/float
 .sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count302
+\c@float@type=\count301
 \float@exts=\toks24
 \float@box=\box54
 \@float@everytoks=\toks25
@@ -376,7 +368,7 @@ icrotype.sty
 Package: microtype 2025/02/11 v3.2a Micro-typographical refinements (RS)
 \MT@toks=\toks26
 \MT@tempbox=\box56
-\MT@count=\count303
+\MT@count=\count302
 LaTeX Info: Redefining \noprotrusionifhmode on input line 1087.
 LaTeX Info: Redefining \leftprotrusion on input line 1088.
 \MT@prot@toks=\toks27
@@ -385,7 +377,7 @@ LaTeX Info: Redefining \textls on input line 1449.
 \MT@outer@kern=\dimen178
 LaTeX Info: Redefining \microtypecontext on input line 2053.
 LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
-\MT@listname@count=\count304
+\MT@listname@count=\count303
 
 (/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/microtype/m
 icrotype-pdftex.def
@@ -393,7 +385,7 @@ File: microtype-pdftex.def 2025/02/11 v3.2a Definitions specific to pdftex (RS)
 
 LaTeX Info: Redefining \lsstyle on input line 944.
 LaTeX Info: Redefining \lslig on input line 944.
-\MT@outer@space=\skip57
+\MT@outer@space=\skip55
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
@@ -406,44 +398,43 @@ LaTeX Info: Redefining \microtypesetup on input line 3065.
 (/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/l3backend/l
 3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count305
+\l__color_backend_stack_int=\count304
 \l__pdf_internal_box=\box57
-)
-No file main.aux.
+) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
 
 (/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/context/base/mkii
 /supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count306
+\scratchcounter=\count305
 \scratchdimen=\dimen179
 \scratchbox=\box58
-\nofMPsegments=\count307
-\nofMParguments=\count308
+\nofMPsegments=\count306
+\nofMParguments=\count307
 \everyMPshowfont=\toks28
-\MPscratchCnt=\count309
+\MPscratchCnt=\count308
 \MPscratchDim=\dimen180
-\MPnumerator=\count310
-\makeMPintoPDFobject=\count311
+\MPnumerator=\count309
+\makeMPintoPDFobject=\count310
 \everyMPtoPDFconversion=\toks29
 )
 (/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/epstopdf-pk
@@ -457,7 +448,8 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 16.
+Package hyperref Info: Link coloring OFF on input line 18.
+ (./main.out) (./main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
@@ -496,22 +488,22 @@ Package hyperref Info: Link coloring OFF on input line 16.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 16.
-Package microtype Info: Applying patch `item' on input line 16.
-Package microtype Info: Applying patch `toc' on input line 16.
-Package microtype Info: Applying patch `eqnum' on input line 16.
+LaTeX Info: Redefining \microtypecontext on input line 18.
+Package microtype Info: Applying patch `item' on input line 18.
+Package microtype Info: Applying patch `toc' on input line 18.
+Package microtype Info: Applying patch `eqnum' on input line 18.
 
-Package microtype Warning: Unable to apply patch `footnote' on input line 16.
+Package microtype Warning: Unable to apply patch `footnote' on input line 18.
 
-Package microtype Info: Applying patch `verbatim' on input line 16.
-LaTeX Info: Redefining \microtypesetup on input line 16.
+Package microtype Info: Applying patch `verbatim' on input line 18.
+LaTeX Info: Redefining \microtypesetup on input line 18.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 16.
+LaTeX Info: Redefining \showhyphens on input line 18.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -521,7 +513,7 @@ t-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 19.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 21.
 
 
 (/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/amsfonts/um
@@ -532,7 +524,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 t-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 19.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 21.
 
 
 (/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/amsfonts/um
@@ -544,738 +536,157 @@ t-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 
-Package natbib Warning: Citation `Colunga-Salas2020' on page 1 undefined on inp
-ut line 22.
-
-
-Package natbib Warning: Citation `Colunga-Salas2020' on page 1 undefined on inp
-ut line 22.
-
-
-Package natbib Warning: Citation `Binetruy2020' on page 1 undefined on input li
-ne 28.
-
-
-Package natbib Warning: Citation `Lucca2024' on page 1 undefined on input line 
-28.
-
-
-Package natbib Warning: Citation `Lucca2024a' on page 1 undefined on input line
- 28.
-
-
-
 [1
 
 {/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/pdftex/updm
 ap/pdftex.map}]
 
-Package natbib Warning: Citation `Yoshinari2022' on page 2 undefined on input l
-ine 31.
-
-
-Package natbib Warning: Citation `Yoshinari2022a' on page 2 undefined on input 
-line 31.
-
-
-Package natbib Warning: Citation `Lucca2024' on page 2 undefined on input line 
-31.
-
-
-Package natbib Warning: Citation `Colunga-Salas2020' on page 2 undefined on inp
-ut line 31.
-
-
-Package natbib Warning: Citation `Yoshinari2022b' on page 2 undefined on input 
-line 31.
-
-
-Package natbib Warning: Citation `Yoshinari2022c' on page 2 undefined on input 
-line 31.
-
-
-Package natbib Warning: Citation `Lucca2024b' on page 2 undefined on input line
- 34.
-
-
-Package natbib Warning: Citation `Lucca2024c' on page 2 undefined on input line
- 37.
-
-
-Package natbib Warning: Citation `Yoshinari2022d' on page 2 undefined on input 
-line 37.
-
-
-Package natbib Warning: Citation `Yoshinari2022e' on page 2 undefined on input 
-line 37.
-
-
-Package natbib Warning: Citation `Yoshinari2022f' on page 2 undefined on input 
-line 37.
-
-
-Package natbib Warning: Citation `Binetruy2020a' on page 2 undefined on input l
-ine 37.
-
-
-Package natbib Warning: Citation `Lucca2024d' on page 2 undefined on input line
- 37.
-
-
-
 [2]
-
-LaTeX Warning: Reference `tab:borrelia_table' on page 3 undefined on input line
- 40.
-
-
 
 [3]
 
-! LaTeX Error: Unicode character ≈ (U+2248)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.50 ...passed clinical case reports/series (n ≈
-                                                   10), epidemiological surv...
-
-? 
-
-! LaTeX Error: Unicode character ≈ (U+2248)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.50 ... or molecular) of human populations (n ≈
-                                                   8), and entomological or ...
-
-? 
-
-! LaTeX Error: Unicode character ≈ (U+2248)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.50 ...ation with presumed human relevance (n ≈
-                                                   12).
-? 
-
-
 [4]
 
-LaTeX Warning: Reference `tab:borrelia_table' on page 5 undefined on input line
- 56.
-
-
-! LaTeX Error: Unicode character 【 (U+3010)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.56 ...details from sources, using the format 【
-                                                  citation†lines】 to ind...
-
-? 
-
-! LaTeX Error: Unicode character 】 (U+3011)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.56 ...s, using the format 【citation†lines】
-                                                   to indicate supporting ev...
-
-? 
-
-
-[5{/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/enc/dvips/cm-
-super/cm-super-ts1.enc}]
-
-LaTeX Warning: Reference `tab:borrelia_table' on page 6 undefined on input line
- 63.
-
-
-Package natbib Warning: Citation `Colunga-Salas2020a' on page 6 undefined on in
-put line 65.
-
-
-LaTeX Warning: Reference `tab:borrelia_table' on page 6 undefined on input line
- 65.
-
-
+[5]
 
 [6]
 
-Package natbib Warning: Citation `Colunga-Salas2020b' on page 7 undefined on in
-put line 71.
-
-
-Package natbib Warning: Citation `Colunga-Salas2020c' on page 7 undefined on in
-put line 71.
-
-
-Package natbib Warning: Citation `Colunga-Salas2020d' on page 7 undefined on in
-put line 71.
-
-
-Package natbib Warning: Citation `Colunga-Salas2020e' on page 7 undefined on in
-put line 71.
-
-
-Package natbib Warning: Citation `Ivanova2014' on page 7 undefined on input lin
-e 74.
-
-
-Package natbib Warning: Citation `Ivanova2014a' on page 7 undefined on input li
-ne 74.
-
-
-Package natbib Warning: Citation `Ivanova2014b' on page 7 undefined on input li
-ne 74.
-
-
-Package natbib Warning: Citation `Ivanova2014c' on page 7 undefined on input li
-ne 74.
-
-
-Package natbib Warning: Citation `Weck2022' on page 7 undefined on input line 7
-7.
-
-
-Package natbib Warning: Citation `Weck2022a' on page 7 undefined on input line 
-77.
-
-
-Package natbib Warning: Citation `Weck2022b' on page 7 undefined on input line 
-77.
-
-
-Package natbib Warning: Citation `Weck2022c' on page 7 undefined on input line 
-77.
-
-
-Package natbib Warning: Citation `Weck2022d' on page 7 undefined on input line 
-77.
-
-
-Package natbib Warning: Citation `Weck2022e' on page 7 undefined on input line 
-77.
-
-
-
 [7]
-
-Package natbib Warning: Citation `Lucca2024e' on page 8 undefined on input line
- 80.
-
-
-Package natbib Warning: Citation `Lucca2024f' on page 8 undefined on input line
- 80.
-
-
-Package natbib Warning: Citation `Lucca2024g' on page 8 undefined on input line
- 80.
-
-
-Package natbib Warning: Citation `Binetruy2020b' on page 8 undefined on input l
-ine 83.
-
-
-Package natbib Warning: Citation `Binetruy2020c' on page 8 undefined on input l
-ine 83.
-
-
-Package natbib Warning: Citation `Binetruy2020d' on page 8 undefined on input l
-ine 83.
-
-
-Package natbib Warning: Citation `Binetruy2020e' on page 8 undefined on input l
-ine 83.
-
-
-Package natbib Warning: Citation `Binetruy2020f' on page 8 undefined on input l
-ine 83.
-
-
-Package natbib Warning: Citation `Binetruy2020g' on page 8 undefined on input l
-ine 83.
-
-
-Package natbib Warning: Citation `Binetruy2020h' on page 8 undefined on input l
-ine 83.
-
-
 
 [8]
 
-Package natbib Warning: Citation `Mancilla-Agrono2022' on page 9 undefined on i
-nput line 86.
-
-
-Package natbib Warning: Citation `Mancilla-Agrono2022a' on page 9 undefined on 
-input line 86.
-
-
-Package natbib Warning: Citation `Mancilla-Agrono2022b' on page 9 undefined on 
-input line 86.
-
-
-Package natbib Warning: Citation `Lucca2024h' on page 9 undefined on input line
- 86.
-
-
-Package natbib Warning: Citation `Lucca2024i' on page 9 undefined on input line
- 86.
-
-
-Package natbib Warning: Citation `Colunga-Salas2022' on page 9 undefined on inp
-ut line 86.
-
-
-Package natbib Warning: Citation `Colunga-Salas2022a' on page 9 undefined on in
-put line 86.
-
-
-Package natbib Warning: Citation `Colunga-Salas2022b' on page 9 undefined on in
-put line 86.
-
-
-
 [9]
-
-Package natbib Warning: Citation `Lucca2024j' on page 10 undefined on input lin
-e 92.
-
-
-Package natbib Warning: Citation `Colunga-Salas2020f' on page 10 undefined on i
-nput line 92.
-
-
-Package natbib Warning: Citation `Colunga-Salas2020g' on page 10 undefined on i
-nput line 92.
-
-
-Package natbib Warning: Citation `Colunga-Salas2020h' on page 10 undefined on i
-nput line 92.
-
-
-Package natbib Warning: Citation `Colunga-Salas2020i' on page 10 undefined on i
-nput line 92.
-
-
-Package natbib Warning: Citation `Colunga-Salas2020j' on page 10 undefined on i
-nput line 92.
-
-
-Package natbib Warning: Citation `Colunga-Salas2020k' on page 10 undefined on i
-nput line 92.
-
-
-Package natbib Warning: Citation `Lucca2024k' on page 10 undefined on input lin
-e 92.
-
-
 
 [10]
 
-Package natbib Warning: Citation `Yoshinari2022g' on page 11 undefined on input
- line 95.
-
-
-Package natbib Warning: Citation `Yoshinari2022h' on page 11 undefined on input
- line 95.
-
-
-Package natbib Warning: Citation `Yoshinari2022i' on page 11 undefined on input
- line 95.
-
-
-Package natbib Warning: Citation `Labruna2024' on page 11 undefined on input li
-ne 95.
-
-
-Package natbib Warning: Citation `Yoshinari2022j' on page 11 undefined on input
- line 95.
-
-
-Package natbib Warning: Citation `Yoshinari2022k' on page 11 undefined on input
- line 95.
-
-
-Package natbib Warning: Citation `Yoshinari2022l' on page 11 undefined on input
- line 95.
-
-
-Package natbib Warning: Citation `Yoshinari2022m' on page 11 undefined on input
- line 95.
-
-
-Package natbib Warning: Citation `Yoshinari2022n' on page 11 undefined on input
- line 95.
-
-
-Package natbib Warning: Citation `Yoshinari2022o' on page 11 undefined on input
- line 95.
-
-
-Package natbib Warning: Citation `Yoshinari2022p' on page 11 undefined on input
- line 97.
-
-
-Package natbib Warning: Citation `Yoshinari2022q' on page 11 undefined on input
- line 97.
-
-
-Package natbib Warning: Citation `Lucca2024l' on page 11 undefined on input lin
-e 97.
-
-
-Package natbib Warning: Citation `Lucca2024m' on page 11 undefined on input lin
-e 97.
-
-
-Package natbib Warning: Citation `Yoshinari2022r' on page 11 undefined on input
- line 97.
-
-
-Package natbib Warning: Citation `Yoshinari2022s' on page 11 undefined on input
- line 97.
-
-
-Package natbib Warning: Citation `Yoshinari2022t' on page 11 undefined on input
- line 97.
-
-
-Package natbib Warning: Citation `Labruna2024a' on page 11 undefined on input l
-ine 97.
-
-
-Package natbib Warning: Citation `Yoshinari2022u' on page 11 undefined on input
- line 97.
-
-
-Package natbib Warning: Citation `Yoshinari2022v' on page 11 undefined on input
- line 97.
-
-
-Package natbib Warning: Citation `Yoshinari2022w' on page 11 undefined on input
- line 97.
-
-
-
 [11]
-
-Package natbib Warning: Citation `Jorge2023' on page 12 undefined on input line
- 99.
-
-
-Package natbib Warning: Citation `Jorge2023a' on page 12 undefined on input lin
-e 99.
-
-
-Package natbib Warning: Citation `Lucca2024n' on page 12 undefined on input lin
-e 99.
-
-
-Package natbib Warning: Citation `Lucca2024o' on page 12 undefined on input lin
-e 99.
-
-
-Package natbib Warning: Citation `Jorge2023b' on page 12 undefined on input lin
-e 99.
-
-
-Package natbib Warning: Citation `Mancilla-Agrono2022c' on page 12 undefined on
- input line 102.
-
-
-Package natbib Warning: Citation `Lucca2024p' on page 12 undefined on input lin
-e 102.
-
-
-Package natbib Warning: Citation `Lucca2024q' on page 12 undefined on input lin
-e 102.
-
-
-Package natbib Warning: Citation `Lucca2024r' on page 12 undefined on input lin
-e 102.
-
-
-Package natbib Warning: Citation `Lucca2024s' on page 12 undefined on input lin
-e 102.
-
-
-Package natbib Warning: Citation `Lucca2024t' on page 12 undefined on input lin
-e 102.
-
-
-Package natbib Warning: Citation `Lucca2024u' on page 12 undefined on input lin
-e 102.
-
-
 
 [12]
 
-LaTeX Warning: Reference `tab:borrelia_table' on page 13 undefined on input lin
-e 104.
-
-
-Package natbib Warning: Citation `Yoshinari2022x' on page 13 undefined on input
- line 104.
-
-
-Package natbib Warning: Citation `Yoshinari2022y' on page 13 undefined on input
- line 104.
-
-
-Package natbib Warning: Citation `Yoshinari2022z' on page 13 undefined on input
- line 104.
-
-
-
 [13]
-
-Package natbib Warning: Citation `Yoshinari2022aa' on page 14 undefined on inpu
-t line 107.
-
-
-Package natbib Warning: Citation `Colunga-Salas2020l' on page 14 undefined on i
-nput line 130.
-
-
-Package natbib Warning: Citation `Colunga-Salas2020m' on page 14 undefined on i
-nput line 130.
-
-
-Underfull \hbox (badness 2393) in paragraph at lines 130--130
+Underfull \hbox (badness 2393) in paragraph at lines 132--132
 []\OT1/cmr/m/n/10.95 (+20) Classic Lyme dis-ease:
  []
 
 
-Package natbib Warning: Citation `Mancilla-Agrono2022d' on page 14 undefined on
- input line 130.
-
-
-Package natbib Warning: Citation `Mancilla-Agrono2022e' on page 14 undefined on
- input line 130.
-
-
-Package natbib Warning: Citation `Ivanova2014d' on page 14 undefined on input l
-ine 130.
-
-
-Package natbib Warning: Citation `Ivanova2014e' on page 14 undefined on input l
-ine 130.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
 []\OT1/cmr/m/n/10.95 (+20) Not as-so-ci-ated with
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
 \OT1/cmr/m/n/10.95 (+20) hu-man dis-ease to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
 \OT1/cmr/m/n/10.95 (+20) species en-demic to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
-\OT1/cmr/m/n/10.95 (+20) Chile (\OT1/cmr/bx/n/10.95 (+20) ?\OT1/cmr/m/n/10.95 (
-+20) ); ex-pands
+Underfull \hbox (badness 1242) in paragraph at lines 132--132
+\OT1/cmr/m/n/10.95 (+20) sphere. Po-ten-tial to
  []
 
 
-Underfull \hbox (badness 2197) in paragraph at lines 130--130
-\OT1/cmr/m/n/10.95 (+20) Bb sl com-plex to S.
+Underfull \hbox (badness 1237) in paragraph at lines 132--132
+\OT1/cmr/m/it/10.95 (+20) schulzei \OT1/cmr/m/n/10.95 (+20) ticks and ro-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
-\OT1/cmr/m/n/10.95 (+20) to cause Lyme-like
- []
-
-
-Package natbib Warning: Citation `Weck2022f' on page 14 undefined on input line
- 130.
-
-
-Package natbib Warning: Citation `Weck2022g' on page 14 undefined on input line
- 130.
-
-
-Package natbib Warning: Citation `Weck2022h' on page 14 undefined on input line
- 130.
-
-
-Package natbib Warning: Citation `Lucca2024v' on page 14 undefined on input lin
-e 130.
-
-
-Package natbib Warning: Citation `Lucca2024w' on page 14 undefined on input lin
-e 130.
-
-
-Underfull \hbox (badness 2261) in paragraph at lines 130--130
+Underfull \hbox (badness 2261) in paragraph at lines 132--132
 []\OT1/cmr/m/n/10.95 (+20) No hu-man cases yet.
  []
 
 
-Underfull \hbox (badness 2050) in paragraph at lines 130--130
-\OT1/cmr/m/n/10.95 (+20) genospecies (\OT1/cmr/bx/n/10.95 (+20) ?\OT1/cmr/m/n/1
-0.95 (+20) ); in-di-
+Underfull \hbox (badness 5908) in paragraph at lines 132--132
+\OT1/cmr/m/n/10.95 (+20) genospecies $[]$; in-di-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
 \OT1/cmr/m/n/10.95 (+20) World{related Lyme
  []
 
 
-Underfull \hbox (badness 1102) in paragraph at lines 130--130
+Underfull \hbox (badness 1102) in paragraph at lines 132--132
 \OT1/cmr/m/n/10.95 (+20) tial to in-fect hu-mans
  []
 
 
-Package natbib Warning: Citation `Binetruy2020i' on page 14 undefined on input 
-line 130.
-
-
-Package natbib Warning: Citation `Binetruy2020j' on page 14 undefined on input 
-line 130.
-
-
-Package natbib Warning: Citation `Binetruy2020k' on page 14 undefined on input 
-line 130.
-
-
-Underfull \hbox (badness 1584) in paragraph at lines 130--130
+Underfull \hbox (badness 1584) in paragraph at lines 132--132
 \OT1/cmr/m/n/10.95 (+20) mans. Rep-re-sents a
  []
 
 
-Package natbib Warning: Citation `Colunga-Salas2020n' on page 14 undefined on i
-nput line 130.
-
-
-Package natbib Warning: Citation `Colunga-Salas2020o' on page 14 undefined on i
-nput line 130.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
 []\OT1/cmr/m/n/10.95 (+20) Presumed im-ported
  []
 
 
-Underfull \hbox (badness 2057) in paragraph at lines 130--130
+Underfull \hbox (badness 2057) in paragraph at lines 132--132
 \OT1/cmr/m/n/10.95 (+20) sis in re-ported cases.
  []
 
 
-Package natbib Warning: Citation `Lucca2024p' on page 14 undefined on input lin
-e 130.
-
-
-Package natbib Warning: Citation `Labruna2024b' on page 14 undefined on input l
-ine 130.
-
-
-Package natbib Warning: Citation `Yoshinari2022ab' on page 14 undefined on inpu
-t line 130.
-
-
-Package natbib Warning: Citation `Yoshinari2022ac' on page 14 undefined on inpu
-t line 130.
-
-
-Package natbib Warning: Citation `Yoshinari2022ad' on page 14 undefined on inpu
-t line 130.
-
-
-Package natbib Warning: Citation `Yoshinari2022ae' on page 14 undefined on inpu
-t line 130.
-
-
-Package natbib Warning: Citation `Yoshinari2022af' on page 14 undefined on inpu
-t line 130.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
 []\OT1/cmr/bx/n/10.95 (+20) Relapsing/remitting
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
 \OT1/cmr/bx/n/10.95 (+20) Lyme-like ill-ness
  []
 
 
-Underfull \hbox (badness 1014) in paragraph at lines 130--130
-\OT1/cmr/m/n/10.95 (+20) (\OT1/cmr/bx/n/10.95 (+20) ?\OT1/cmr/m/n/10.95 (+20) )
-. Ini-tial EM and
+Underfull \hbox (badness 1762) in paragraph at lines 132--132
+[]$\OT1/cmr/m/n/10.95 (+20) . Ini-tial EM and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
 \OT1/cmr/m/n/10.95 (+20) flu-like symp-toms,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
 \OT1/cmr/m/n/10.95 (+20) neuro and car-diac
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
 \OT1/cmr/bx/n/10.95 (+20) re-lapses \OT1/cmr/m/n/10.95 (+20) and post-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
 \OT1/cmr/m/n/10.95 (+20) treatment re-cur-rence.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
 \OT1/cmr/m/n/10.95 (+20) Au-toim-mune man-i-fes-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
 \OT1/cmr/m/n/10.95 (+20) no-dosum, re-ac-tive
  []
 
 
-Underfull \hbox (badness 3281) in paragraph at lines 130--130
+Underfull \hbox (badness 2680) in paragraph at lines 132--132
+\OT1/cmr/m/n/10.95 (+20) arthri-tis) com-mon $[]$.
+ []
+
+
+Underfull \hbox (badness 3281) in paragraph at lines 132--132
 \OT1/cmr/m/n/10.95 (+20) if treated early, but
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
 \OT1/cmr/m/it/10.95 (+20) omma/Rhipicephalus
  []
-
-
-Package natbib Warning: Citation `Lucca2024ag' on page 14 undefined on input li
-ne 130.
-
-
-Package natbib Warning: Citation `Lucca2024ah' on page 14 undefined on input li
-ne 130.
 
 
 
@@ -1286,207 +697,37 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.136 
+l.138 
       ]
 
-Package natbib Warning: Citation `Ivanova2014f' on page 16 undefined on input l
-ine 138.
-
-
-Package natbib Warning: Citation `Weck2022i' on page 16 undefined on input line
- 138.
-
-
-Package natbib Warning: Citation `Yoshinari2022ag' on page 16 undefined on inpu
-t line 145.
-
-
-Package natbib Warning: Citation `Yoshinari2022ah' on page 16 undefined on inpu
-t line 145.
-
-
-
-[16]
-
-Package natbib Warning: Citation `Yoshinari2022ai' on page 17 undefined on inpu
-t line 147.
-
-
-Package natbib Warning: Citation `Yoshinari2022aj' on page 17 undefined on inpu
-t line 147.
-
-
-Package natbib Warning: Citation `Colunga-Salas2020p' on page 17 undefined on i
-nput line 153.
-
-
+[16{/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/enc/dvips/cm
+-super/cm-super-ts1.enc}]
 
 [17]
 
-Package natbib Warning: Citation `Yoshinari2022ak' on page 18 undefined on inpu
-t line 155.
-
-
-Package natbib Warning: Citation `Yoshinari2022al' on page 18 undefined on inpu
-t line 155.
-
-
-Package natbib Warning: Citation `Yoshinari2022am' on page 18 undefined on inpu
-t line 155.
-
-
-Package natbib Warning: Citation `Labruna2024c' on page 18 undefined on input l
-ine 155.
-
-
-Package natbib Warning: Citation `Labruna2024d' on page 18 undefined on input l
-ine 155.
-
-
-
 [18]
-
-Package natbib Warning: Citation `Colunga-Salas2022c' on page 19 undefined on i
-nput line 157.
-
-
-Package natbib Warning: Citation `Jorge2023c' on page 19 undefined on input lin
-e 159.
-
-
-Package natbib Warning: Citation `Jorge2023d' on page 19 undefined on input lin
-e 159.
-
-
 
 [19]
 
-Package natbib Warning: Citation `Jorge2023e' on page 20 undefined on input lin
-e 171.
-
-
-Package natbib Warning: Citation `Jorge2023f' on page 20 undefined on input lin
-e 171.
-
-
-
 [20]
-
-Package natbib Warning: Citation `Yoshinari2022ag' on page 21 undefined on inpu
-t line 173.
-
-
-Package natbib Warning: Citation `Colunga-Salas2022d' on page 21 undefined on i
-nput line 180.
-
-
-Package natbib Warning: Citation `Labruna2024e' on page 21 undefined on input l
-ine 180.
-
-
 
 [21]
 
-Package natbib Warning: Citation `Yoshinari2022ag' on page 22 undefined on inpu
-t line 184.
-
-
-Package natbib Warning: Citation `Yoshinari2022ah' on page 22 undefined on inpu
-t line 184.
-
-
-Package natbib Warning: Citation `Yoshinari2022ai' on page 22 undefined on inpu
-t line 184.
-
-
-Package natbib Warning: Citation `Lucca2024w' on page 22 undefined on input lin
-e 186.
-
-
-
 [22]
-
-Package natbib Warning: Citation `Colunga-Salas2022e' on page 23 undefined on i
-nput line 188.
-
-
-Package natbib Warning: Citation `Colunga-Salas2022f' on page 23 undefined on i
-nput line 188.
-
-
 
 [23]
 
-Package natbib Warning: Citation `Binetruy2020l' on page 24 undefined on input 
-line 201.
-
-
-Package natbib Warning: Citation `Binetruy2020m' on page 24 undefined on input 
-line 201.
-
-
-
 [24]
 
-Package natbib Warning: Citation `Colunga-Salas2020q' on page 25 undefined on i
-nput line 204.
-
-
-Package natbib Warning: Citation `Yoshinari2022an' on page 25 undefined on inpu
-t line 204.
-
-
-Package natbib Warning: Citation `Yoshinari2022ao' on page 25 undefined on inpu
-t line 204.
-
-
-Package natbib Warning: Citation `Colunga-Salas2020r' on page 25 undefined on i
-nput line 209.
-
-
-Package natbib Warning: Citation `Lucca2024x' on page 25 undefined on input lin
-e 209.
-
-
-Package natbib Warning: Citation `Ivanova2014g' on page 25 undefined on input l
-ine 211.
-
-
-Package natbib Warning: Citation `Lucca2024y' on page 25 undefined on input lin
-e 211.
-
-
-Package natbib Warning: Citation `Yoshinari2022ap' on page 25 undefined on inpu
-t line 213.
-
-
-Package natbib Warning: Citation `Yoshinari2022aq' on page 25 undefined on inpu
-t line 213.
-
-
-
 [25]
-
-Package natbib Warning: Citation `Yoshinari2022ar' on page 26 undefined on inpu
-t line 219.
-
-
-Package natbib Warning: Citation `Colunga-Salas2022g' on page 26 undefined on i
-nput line 221.
-
-
-Package natbib Warning: Citation `Colunga-Salas2022h' on page 26 undefined on i
-nput line 221.
-
-
 
 [26]
 
 [27]
-No file main.bbl.
-
-Package natbib Warning: There were undefined citations.
-
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmtt' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
 
 
 [28] (./main.aux)
@@ -1494,43 +735,37 @@ Package natbib Warning: There were undefined citations.
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  60751DBC8508A9B278CB20A69C75B00C;8256.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 60751DBC8508A9B278CB20A69C75B00C;8256.
  ) 
 Here is how much of TeX's memory you used:
- 13007 strings out of 473190
- 201908 string characters out of 5704335
- 646684 words of memory out of 5000000
- 35721 multiletter control sequences out of 15000+600000
- 580682 words of font info for 236 fonts, out of 8000000 for 9000
+ 12743 strings out of 473190
+ 198862 string characters out of 5704335
+ 642030 words of memory out of 5000000
+ 35461 multiletter control sequences out of 15000+600000
+ 581851 words of font info for 236 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,2667b,560s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,13n,79p,2633b,560s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmbx10.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmbx12.pfb></opt/homebrew/Cellar/texlive/20250
 308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></opt/homebr
 ew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r10.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmr17.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texm
+mi8.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr10.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></opt/homebrew/Cellar/texlive/2
+0250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></opt/homebr
+ew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+r8.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></opt/homebrew/Cellar/texlive/
-20250308_1/share/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on main.pdf (28 pages, 197760 bytes).
+20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></opt/hom
+ebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/cm-super/sf
+rm1095.pfb>
+Output written on main.pdf (28 pages, 258155 bytes).
 PDF statistics:
- 218 PDF objects out of 1000 (max. 8388607)
- 172 compressed objects within 2 object streams
- 70 named destinations out of 1000 (max. 500000)
- 32769 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 376 PDF objects out of 1000 (max. 8388607)
+ 318 compressed objects within 4 object streams
+ 79 named destinations out of 1000 (max. 500000)
+ 37649 words of extra memory for PDF output out of 42996 (max. 10000000)
 
